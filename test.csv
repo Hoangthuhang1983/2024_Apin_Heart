@@ -1,0 +1,275 @@
+age,sex,chest pain type,resting bp s,cholesterol,fasting blood sugar,resting ecg,max heart rate,exercise angina,oldpeak,ST slope,target
+High,0.0,4.0,Low,Very Low,0.0,2.0,Medium,0.0,Very Low,1.0,1
+Medium,0.0,3.0,Medium,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,3.0,Medium,High,0.0,0.0,Very Low,1.0,Very Low,1.0,0
+Very Low,1.0,4.0,High,High,0.0,0.0,High,0.0,Medium,2.0,1
+High,1.0,4.0,High,Low,0.0,1.0,High,1.0,Medium,1.0,0
+Low,0.0,1.0,High,Very Low,0.0,0.0,Very Low,0.0,Medium,1.0,0
+High,1.0,3.0,Very Low,High,0.0,1.0,Very Low,0.0,Very Low,1.0,0
+Medium,0.0,4.0,High,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,0.0,3.0,Medium,High,1.0,0.0,Low,0.0,Very Low,1.0,0
+High,1.0,3.0,High,High,1.0,0.0,Very Low,0.0,Medium,1.0,0
+High,1.0,4.0,Low,Low,1.0,0.0,Very Low,0.0,Medium,2.0,1
+High,1.0,4.0,Medium,Low,0.0,0.0,High,1.0,Medium,1.0,0
+Very Low,1.0,2.0,Very Low,Very Low,0.0,2.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,1.0,High,Very Low,1.0,0.0,Medium,0.0,Medium,2.0,0
+Very Low,0.0,2.0,Low,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,Very Low,High,0.0,0.0,High,0.0,Very Low,2.0,1
+High,1.0,2.0,High,High,0.0,2.0,Medium,0.0,Very Low,1.0,1
+Low,0.0,2.0,Very Low,Low,0.0,0.0,High,0.0,Very Low,1.0,0
+Low,1.0,4.0,Very Low,Low,0.0,0.0,High,0.0,Very Low,2.0,1
+Low,1.0,3.0,Medium,Low,0.0,1.0,High,0.0,Very Low,1.0,0
+Very Low,0.0,3.0,High,High,0.0,2.0,Medium,1.0,Medium,3.0,0
+Very Low,1.0,4.0,Very Low,High,0.0,2.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,High,Medium,0.0,2.0,High,1.0,Medium,1.0,1
+Low,1.0,4.0,High,High,0.0,2.0,High,1.0,High,2.0,1
+Very Low,1.0,4.0,Very Low,High,1.0,1.0,Very Low,0.0,Very Low,1.0,0
+Medium,1.0,4.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,2.0,1
+High,1.0,2.0,High,Very Low,0.0,1.0,Very Low,1.0,Medium,2.0,1
+High,1.0,4.0,Very Low,Very Low,0.0,2.0,High,1.0,Low,2.0,1
+Medium,1.0,4.0,Medium,Low,1.0,0.0,High,0.0,Medium,3.0,1
+Low,1.0,4.0,Very Low,Very Low,0.0,0.0,High,1.0,Medium,2.0,1
+Low,1.0,4.0,High,High,0.0,0.0,Medium,0.0,Very Low,1.0,1
+High,1.0,4.0,Medium,Low,0.0,0.0,Very Low,1.0,Medium,3.0,0
+Very Low,1.0,4.0,Very Low,High,1.0,2.0,Very Low,0.0,Very Low,1.0,0
+Medium,0.0,2.0,Very Low,Very Low,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,0.0,4.0,Very Low,Medium,0.0,2.0,Very Low,1.0,Medium,2.0,1
+Medium,1.0,2.0,Very Low,High,0.0,2.0,Medium,0.0,Very Low,1.0,0
+High,1.0,4.0,High,Very Low,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Low,1.0,4.0,High,High,0.0,0.0,Low,1.0,Medium,2.0,1
+Medium,1.0,3.0,Very Low,High,0.0,2.0,Medium,0.0,Medium,2.0,0
+High,1.0,4.0,Low,Low,1.0,1.0,Low,1.0,Very Low,2.0,1
+Very Low,1.0,2.0,Very Low,High,0.0,0.0,Medium,0.0,Medium,1.0,0
+Medium,1.0,4.0,High,Very Low,0.0,0.0,Medium,0.0,Medium,1.0,0
+Low,1.0,4.0,Medium,Very Low,0.0,0.0,Low,0.0,Medium,2.0,1
+Medium,1.0,2.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,4.0,Very Low,Very Low,0.0,0.0,Very Low,1.0,High,3.0,1
+High,1.0,4.0,High,High,0.0,0.0,Low,0.0,Medium,2.0,1
+Very Low,1.0,4.0,Medium,Very Low,0.0,2.0,Medium,0.0,Very Low,1.0,0
+High,0.0,4.0,Very Low,High,0.0,1.0,High,1.0,Medium,2.0,1
+Medium,1.0,3.0,High,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Medium,1.0,4.0,High,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,3.0,Medium,High,0.0,0.0,High,0.0,Very Low,1.0,0
+Low,1.0,4.0,High,Very Low,0.0,0.0,Very Low,1.0,Low,3.0,1
+Low,1.0,4.0,Medium,Very Low,0.0,2.0,High,1.0,Medium,2.0,1
+Very Low,1.0,4.0,High,Very Low,0.0,2.0,Very Low,1.0,Very Low,2.0,1
+Very Low,1.0,4.0,Medium,Low,1.0,0.0,High,0.0,Low,2.0,1
+Low,1.0,4.0,High,Low,1.0,1.0,Very Low,0.0,High,1.0,1
+Very Low,0.0,4.0,High,Very Low,0.0,2.0,Very Low,1.0,Very Low,2.0,0
+High,1.0,4.0,High,Medium,1.0,2.0,Very Low,0.0,Very Low,1.0,0
+Medium,1.0,3.0,Medium,Low,0.0,0.0,High,1.0,Very Low,2.0,1
+Very Low,1.0,3.0,Medium,High,0.0,2.0,High,0.0,Medium,1.0,1
+Medium,1.0,3.0,Low,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,1.0,4.0,Very Low,High,0.0,2.0,High,1.0,Low,2.0,1
+Low,1.0,4.0,High,Very Low,1.0,1.0,High,1.0,Medium,2.0,1
+Medium,1.0,3.0,Medium,Very Low,0.0,2.0,Medium,0.0,Medium,2.0,0
+Medium,0.0,3.0,High,High,0.0,0.0,Very Low,0.0,Very Low,2.0,0
+Very Low,1.0,4.0,High,High,0.0,0.0,Low,1.0,Medium,2.0,1
+Medium,1.0,2.0,Very Low,Very Low,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Low,1.0,4.0,Very Low,Low,0.0,0.0,Low,1.0,Very Low,3.0,1
+Very Low,1.0,4.0,High,Very Low,1.0,0.0,High,1.0,Very Low,1.0,0
+High,1.0,4.0,Very Low,Medium,0.0,0.0,High,1.0,Medium,2.0,1
+Low,1.0,4.0,Low,High,0.0,0.0,Low,1.0,Low,3.0,1
+High,1.0,4.0,Very Low,Very Low,0.0,1.0,High,1.0,Low,2.0,0
+Low,1.0,4.0,Low,Very Low,0.0,2.0,Low,1.0,Medium,2.0,1
+High,0.0,4.0,Very Low,Very Low,0.0,2.0,Medium,0.0,Very Low,1.0,0
+High,1.0,4.0,Medium,Low,0.0,0.0,Very Low,0.0,Very Low,2.0,1
+Medium,1.0,3.0,High,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,4.0,High,Low,0.0,1.0,High,1.0,Medium,2.0,1
+Very Low,1.0,4.0,Very Low,High,1.0,0.0,Very Low,1.0,Medium,2.0,1
+High,1.0,3.0,Very Low,High,1.0,2.0,Very Low,0.0,Medium,3.0,0
+Medium,1.0,4.0,Medium,High,0.0,0.0,Medium,0.0,Very Low,2.0,1
+Very Low,0.0,3.0,Very Low,High,0.0,0.0,Very Low,0.0,Medium,2.0,0
+High,1.0,4.0,Low,High,1.0,2.0,Low,0.0,Medium,2.0,1
+High,0.0,3.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,4.0,Medium,Low,1.0,0.0,Low,1.0,Medium,3.0,1
+Very Low,0.0,2.0,Very Low,Very Low,0.0,1.0,Very Low,0.0,Medium,1.0,0
+Medium,1.0,2.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Medium,0.0,2.0,High,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Medium,0.0,4.0,Medium,Low,1.0,0.0,Medium,0.0,Low,1.0,1
+High,0.0,4.0,Low,Medium,0.0,1.0,High,1.0,Medium,2.0,0
+Medium,1.0,2.0,Very Low,High,0.0,0.0,High,0.0,Very Low,2.0,0
+High,1.0,2.0,Very Low,Very Low,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,1.0,4.0,Low,Low,1.0,2.0,High,1.0,Very Low,2.0,1
+Low,1.0,4.0,High,High,0.0,2.0,Very Low,1.0,Medium,1.0,1
+High,0.0,3.0,Very Low,High,0.0,1.0,Medium,0.0,Very Low,1.0,0
+High,1.0,4.0,Very Low,Low,0.0,2.0,High,1.0,Medium,2.0,1
+Very Low,1.0,4.0,Medium,Very Low,0.0,2.0,Very Low,0.0,Medium,1.0,1
+Low,1.0,4.0,Medium,Low,1.0,0.0,Low,1.0,Very Low,2.0,1
+Very Low,0.0,4.0,Low,Low,1.0,0.0,Low,0.0,Very Low,2.0,1
+Low,1.0,4.0,Low,High,1.0,0.0,High,1.0,Low,3.0,1
+Very Low,1.0,4.0,Very Low,Very Low,0.0,1.0,Very Low,0.0,Very Low,1.0,0
+Medium,0.0,4.0,Medium,Very Low,0.0,0.0,Very Low,1.0,Medium,2.0,1
+High,1.0,4.0,Medium,Low,1.0,1.0,Low,0.0,Very Low,1.0,1
+High,0.0,4.0,High,High,0.0,2.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,4.0,Very Low,Very Low,1.0,0.0,Medium,0.0,Very Low,2.0,1
+Very Low,1.0,4.0,Medium,High,0.0,0.0,High,0.0,Very Low,2.0,1
+Low,1.0,3.0,Very Low,Low,0.0,2.0,High,1.0,Medium,2.0,1
+Low,1.0,4.0,Very Low,Very Low,0.0,1.0,High,1.0,Very Low,1.0,0
+Very Low,1.0,4.0,Medium,Low,0.0,1.0,Very Low,1.0,Very Low,1.0,1
+Very Low,0.0,4.0,Very Low,Very Low,0.0,0.0,Very Low,1.0,Medium,2.0,1
+Very Low,1.0,3.0,Very Low,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Low,0.0,1.0,High,Low,1.0,0.0,Very Low,0.0,Very Low,2.0,1
+Low,1.0,4.0,Very Low,High,0.0,1.0,High,1.0,Very Low,2.0,1
+High,1.0,3.0,Low,Low,0.0,1.0,Low,0.0,Very Low,2.0,1
+Very Low,1.0,4.0,Medium,High,0.0,0.0,Very Low,0.0,Very Low,2.0,1
+Very Low,0.0,2.0,Very Low,High,0.0,2.0,Medium,0.0,Very Low,2.0,0
+High,1.0,3.0,Very Low,High,0.0,1.0,Very Low,0.0,Very Low,2.0,1
+Very Low,0.0,4.0,Very Low,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,High,Very Low,0.0,0.0,High,1.0,Medium,2.0,1
+Medium,0.0,3.0,Medium,Very Low,0.0,0.0,Very Low,0.0,Very Low,2.0,0
+High,1.0,3.0,High,High,0.0,1.0,High,1.0,Medium,2.0,1
+Low,1.0,3.0,High,Very Low,0.0,0.0,High,1.0,Medium,2.0,1
+High,1.0,4.0,Very Low,Low,0.0,1.0,High,1.0,Medium,2.0,1
+Very Low,1.0,2.0,Very Low,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+High,1.0,1.0,Low,Very Low,0.0,2.0,Medium,0.0,Very Low,2.0,1
+Medium,1.0,3.0,Medium,Very Low,0.0,0.0,Low,1.0,Very Low,1.0,0
+Medium,0.0,4.0,Medium,Low,0.0,0.0,Very Low,0.0,Very Low,2.0,1
+Low,1.0,4.0,Very Low,Low,1.0,0.0,Low,0.0,Low,2.0,1
+Low,1.0,2.0,High,Very Low,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Very Low,0.0,3.0,Very Low,High,0.0,1.0,Very Low,0.0,Very Low,1.0,0
+Low,1.0,4.0,High,High,0.0,0.0,High,1.0,Medium,2.0,1
+Low,1.0,3.0,Very Low,Low,1.0,1.0,High,1.0,Medium,2.0,1
+Medium,1.0,2.0,High,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,2.0,Low,High,0.0,1.0,High,0.0,Very Low,1.0,0
+High,1.0,3.0,Low,Low,0.0,1.0,Very Low,1.0,Medium,2.0,0
+Low,1.0,3.0,Very Low,Very Low,1.0,0.0,Very Low,1.0,Very Low,1.0,0
+Low,1.0,4.0,Medium,Very Low,0.0,2.0,Low,1.0,Low,3.0,1
+Low,1.0,4.0,High,High,1.0,1.0,High,1.0,Medium,2.0,1
+Medium,1.0,4.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,2.0,1
+Very Low,1.0,2.0,Very Low,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Low,0.0,3.0,Medium,Medium,0.0,2.0,Medium,0.0,Medium,2.0,0
+Very Low,0.0,4.0,Medium,Very Low,0.0,1.0,Low,0.0,Very Low,1.0,0
+Low,1.0,4.0,Low,High,1.0,0.0,Low,1.0,Medium,2.0,1
+Low,1.0,4.0,High,High,0.0,1.0,Low,1.0,Medium,1.0,1
+High,0.0,2.0,Medium,Very Low,0.0,0.0,Very Low,0.0,Medium,2.0,0
+Low,1.0,4.0,High,Very Low,1.0,1.0,Low,1.0,Medium,2.0,1
+High,1.0,4.0,Very Low,Very Low,0.0,2.0,Low,1.0,Low,2.0,1
+Low,0.0,2.0,Medium,Very Low,0.0,2.0,High,1.0,Very Low,1.0,0
+High,1.0,4.0,Medium,Low,1.0,1.0,High,1.0,Medium,1.0,1
+High,1.0,2.0,High,High,0.0,0.0,Medium,1.0,Very Low,1.0,0
+Medium,0.0,2.0,Medium,High,0.0,1.0,Very Low,0.0,Very Low,1.0,0
+High,1.0,4.0,Very Low,High,0.0,2.0,Low,1.0,Low,2.0,1
+Medium,1.0,2.0,Medium,Very Low,0.0,0.0,Very Low,0.0,Very Low,2.0,1
+Very Low,1.0,4.0,Medium,Medium,0.0,1.0,Low,1.0,Medium,2.0,1
+Medium,1.0,4.0,High,Very Low,0.0,0.0,Very Low,1.0,Medium,2.0,1
+High,1.0,4.0,Very Low,High,0.0,0.0,Low,0.0,Very Low,1.0,0
+High,1.0,2.0,High,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,4.0,Low,Very Low,1.0,1.0,Low,1.0,Medium,2.0,1
+Very Low,1.0,3.0,Very Low,Very Low,1.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,Low,High,0.0,0.0,Low,1.0,Low,2.0,1
+Low,1.0,4.0,Low,High,0.0,2.0,Very Low,0.0,Low,1.0,0
+Very Low,1.0,3.0,Very Low,Low,0.0,1.0,Medium,0.0,Low,1.0,1
+Very Low,1.0,4.0,Very Low,Very Low,1.0,2.0,Very Low,1.0,Very Low,1.0,1
+High,0.0,4.0,Low,Medium,0.0,1.0,High,1.0,Low,2.0,1
+Low,1.0,4.0,High,High,0.0,1.0,Very Low,1.0,Medium,2.0,1
+High,1.0,4.0,Very Low,High,1.0,0.0,Low,0.0,Medium,2.0,1
+High,1.0,2.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,3.0,0
+Low,0.0,4.0,High,Very Low,0.0,2.0,Medium,0.0,High,3.0,1
+Very Low,1.0,4.0,Medium,Low,1.0,0.0,High,0.0,Very Low,2.0,1
+Medium,0.0,4.0,Medium,Very Low,0.0,2.0,High,0.0,Very Low,2.0,0
+Very Low,1.0,4.0,High,Medium,0.0,1.0,High,1.0,Low,2.0,1
+High,1.0,4.0,Very Low,Very Low,0.0,2.0,Medium,0.0,Very Low,1.0,1
+Very Low,1.0,3.0,Medium,High,0.0,0.0,Very Low,0.0,Medium,2.0,1
+Low,1.0,1.0,High,High,1.0,1.0,Very Low,0.0,Very Low,1.0,0
+Low,1.0,2.0,Low,Very Low,0.0,0.0,High,1.0,Very Low,2.0,1
+Medium,0.0,4.0,Very Low,High,0.0,1.0,Medium,0.0,Very Low,1.0,0
+Low,0.0,4.0,High,Medium,0.0,2.0,Very Low,0.0,Medium,2.0,0
+Low,1.0,3.0,High,Very Low,0.0,2.0,Very Low,0.0,Medium,2.0,1
+Medium,1.0,2.0,Medium,High,0.0,0.0,Medium,1.0,Medium,2.0,0
+Very Low,0.0,3.0,Medium,Very Low,0.0,2.0,Very Low,0.0,Very Low,1.0,0
+Medium,0.0,2.0,Very Low,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+High,1.0,3.0,Medium,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Low,0.0,1.0,Low,High,0.0,0.0,High,0.0,Very Low,1.0,0
+High,1.0,4.0,Very Low,High,0.0,0.0,High,1.0,Medium,3.0,1
+Very Low,1.0,3.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,2.0,1
+Low,1.0,3.0,Very Low,Low,0.0,1.0,High,1.0,Very Low,2.0,1
+Medium,1.0,3.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,3.0,Medium,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Medium,1.0,2.0,Medium,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,4.0,High,Very Low,1.0,1.0,High,1.0,High,3.0,1
+Very Low,0.0,2.0,Very Low,Very Low,0.0,0.0,Medium,0.0,Very Low,2.0,0
+Low,0.0,3.0,High,Medium,1.0,2.0,Very Low,0.0,Medium,1.0,0
+High,1.0,4.0,Very Low,Low,1.0,1.0,High,1.0,Medium,3.0,1
+Low,0.0,2.0,High,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Very Low,0.0,2.0,Medium,Very Low,0.0,0.0,Medium,0.0,Medium,1.0,0
+Very Low,1.0,4.0,Very Low,High,0.0,0.0,Medium,0.0,Very Low,2.0,1
+Low,1.0,4.0,Very Low,Low,0.0,0.0,Low,1.0,Very Low,2.0,1
+Very Low,1.0,4.0,Very Low,Very Low,0.0,0.0,Medium,1.0,Very Low,1.0,1
+High,1.0,4.0,Very Low,High,1.0,0.0,High,1.0,Medium,2.0,1
+High,1.0,1.0,Low,Very Low,0.0,2.0,High,0.0,Very Low,1.0,1
+Low,1.0,4.0,Very Low,Very Low,0.0,1.0,High,1.0,Medium,2.0,1
+Low,1.0,4.0,Low,High,0.0,1.0,Very Low,1.0,Very Low,2.0,1
+High,1.0,4.0,High,High,0.0,1.0,High,1.0,Medium,2.0,1
+Low,0.0,4.0,Medium,High,0.0,0.0,High,0.0,Medium,2.0,0
+Very Low,1.0,4.0,Medium,High,0.0,2.0,Very Low,1.0,Low,2.0,0
+Very Low,0.0,4.0,Very Low,High,0.0,0.0,Very Low,1.0,Medium,2.0,0
+High,1.0,4.0,Very Low,Very Low,0.0,0.0,High,1.0,Medium,2.0,1
+High,1.0,4.0,Very Low,Very Low,0.0,2.0,Very Low,1.0,Low,2.0,1
+High,1.0,4.0,Very Low,Very Low,0.0,2.0,High,1.0,Low,2.0,1
+Low,1.0,1.0,Medium,Very Low,0.0,1.0,Very Low,1.0,Medium,2.0,1
+Very Low,1.0,4.0,Medium,Very Low,1.0,0.0,Low,0.0,Very Low,2.0,1
+Very Low,1.0,4.0,Medium,High,0.0,0.0,High,1.0,Medium,2.0,1
+Medium,1.0,2.0,Medium,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,Very Low,Low,1.0,1.0,Medium,0.0,Very Low,2.0,1
+Very Low,1.0,4.0,Medium,Very Low,0.0,1.0,Very Low,1.0,Medium,2.0,0
+Medium,1.0,2.0,Medium,Very Low,0.0,2.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,Medium,Low,0.0,0.0,High,1.0,Medium,2.0,1
+High,0.0,1.0,High,Very Low,1.0,2.0,Medium,0.0,Medium,1.0,0
+High,1.0,2.0,Very Low,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,1.0,1.0,Medium,High,0.0,0.0,Very Low,0.0,Medium,1.0,0
+High,1.0,4.0,Very Low,High,0.0,0.0,High,1.0,Medium,2.0,1
+High,1.0,3.0,Very Low,Very Low,0.0,2.0,Very Low,0.0,Very Low,3.0,0
+Very Low,1.0,4.0,High,Medium,0.0,0.0,High,1.0,Medium,2.0,1
+Low,0.0,4.0,Low,High,1.0,0.0,Medium,1.0,Medium,2.0,1
+Very Low,0.0,3.0,Very Low,High,0.0,2.0,Medium,0.0,Very Low,2.0,0
+High,1.0,4.0,Very Low,High,0.0,0.0,Very Low,1.0,Low,2.0,1
+High,1.0,2.0,Very Low,High,0.0,0.0,Low,0.0,Very Low,1.0,0
+High,1.0,4.0,Medium,Low,1.0,0.0,High,0.0,Very Low,2.0,1
+High,0.0,4.0,High,Very Low,0.0,2.0,Very Low,0.0,Low,2.0,1
+Low,0.0,4.0,High,Very Low,1.0,0.0,Low,0.0,Medium,2.0,1
+High,0.0,3.0,Very Low,High,0.0,2.0,High,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,Very Low,High,0.0,0.0,High,1.0,Medium,2.0,1
+Low,1.0,4.0,Very Low,Very Low,0.0,2.0,Low,0.0,Low,2.0,1
+Medium,1.0,4.0,High,Medium,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,1.0,High,High,1.0,1.0,Low,0.0,Medium,3.0,1
+Medium,1.0,4.0,High,High,0.0,0.0,High,1.0,Medium,2.0,0
+Very Low,1.0,4.0,Low,Medium,0.0,0.0,Low,1.0,Low,2.0,1
+High,0.0,2.0,High,Very Low,0.0,2.0,Very Low,0.0,Medium,2.0,0
+Very Low,1.0,4.0,High,Very Low,0.0,0.0,High,1.0,High,2.0,1
+Medium,1.0,4.0,Medium,High,0.0,2.0,Medium,0.0,Very Low,1.0,1
+High,1.0,4.0,Very Low,Very Low,1.0,2.0,Low,1.0,Medium,3.0,1
+High,1.0,4.0,Very Low,Very Low,0.0,0.0,Very Low,1.0,Medium,1.0,1
+High,0.0,4.0,Very Low,Medium,1.0,1.0,Very Low,0.0,Very Low,2.0,1
+Medium,1.0,4.0,Medium,High,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Medium,0.0,1.0,Medium,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,0.0,4.0,Medium,Very Low,0.0,2.0,High,0.0,Medium,2.0,0
+Very Low,0.0,4.0,Very Low,Very Low,0.0,0.0,Low,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,High,Very Low,0.0,0.0,Medium,1.0,Medium,1.0,1
+Low,1.0,4.0,High,Low,0.0,0.0,Low,1.0,Very Low,2.0,1
+High,1.0,4.0,Medium,Very Low,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Low,1.0,1.0,High,High,1.0,2.0,Very Low,0.0,Low,3.0,0
+Medium,1.0,4.0,Medium,Low,0.0,0.0,Very Low,1.0,Medium,2.0,1
+Medium,1.0,4.0,Very Low,Very Low,0.0,2.0,Very Low,1.0,Very Low,1.0,1
+High,1.0,4.0,Very Low,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+Very Low,1.0,2.0,Very Low,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+Medium,1.0,2.0,Medium,Very Low,0.0,1.0,Very Low,0.0,Medium,1.0,0
+Low,1.0,4.0,High,Low,0.0,0.0,High,1.0,Medium,2.0,1
+High,1.0,3.0,Low,High,1.0,1.0,Medium,0.0,Very Low,1.0,0
+Very Low,1.0,4.0,Low,Medium,0.0,0.0,Low,1.0,Medium,2.0,1
+High,1.0,2.0,Low,Very Low,0.0,0.0,Medium,0.0,Very Low,1.0,0
+High,1.0,4.0,Very Low,Low,1.0,0.0,Low,1.0,Medium,2.0,1
+Medium,0.0,2.0,Medium,High,0.0,1.0,Medium,0.0,Very Low,1.0,0
+Medium,1.0,4.0,Medium,Low,1.0,0.0,High,1.0,Medium,2.0,1
+High,1.0,3.0,Medium,Low,1.0,0.0,Very Low,0.0,Low,1.0,1
+Low,1.0,4.0,Medium,Low,1.0,0.0,Very Low,0.0,Medium,3.0,1
+Low,1.0,4.0,High,Very Low,0.0,1.0,High,1.0,Medium,2.0,1
+Medium,1.0,2.0,High,High,0.0,1.0,Medium,0.0,Very Low,1.0,0
+Low,1.0,4.0,Medium,Low,1.0,0.0,High,1.0,Medium,3.0,1
+High,1.0,3.0,Medium,Low,0.0,1.0,High,1.0,Low,2.0,1
+High,1.0,4.0,Low,High,0.0,0.0,Very Low,1.0,Medium,2.0,1
+Very Low,1.0,4.0,High,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,1.0,3.0,Very Low,Very Low,0.0,0.0,High,1.0,Medium,1.0,0
+Low,1.0,4.0,Low,Very Low,1.0,1.0,Low,1.0,Low,2.0,1
+Very Low,1.0,4.0,High,High,0.0,0.0,Very Low,0.0,Very Low,1.0,0
+High,0.0,1.0,Very Low,Very Low,0.0,0.0,Low,0.0,Medium,2.0,0
